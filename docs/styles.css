@@ -1,1 +1,17 @@
 /* css styles */
+.leaflet-control-layers-expanded {
+	width:130%;
+}
+
+.leaflet-control-layers-selector {
+  margin: 2px;
+}
+
+.leaflet-control-layers checkbox {
+	padding-right: 6px;
+	margin-right: 6px;
+	}
+	
+.leaflet-control-layers label {
+	padding-left: 6px;
+	}
